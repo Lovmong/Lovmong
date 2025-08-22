@@ -44,5 +44,8 @@ Here are some ideas to get you started:
 [![Keil](https://img.shields.io/badge/-Keil-00979D?style=flat&logo=keil&logoColor=white)]()
 [![AI search](https://img.shields.io/badge/-AI%20search-00979D?style=flat&logo=google&logoColor=white)]()
 
-### Contact
+---
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lovmong&show_icons=true&theme=tokyonight)]()
+
+[![Visitor Count](https://profile-counter.glitch.me/lovmong/count.svg)]()
